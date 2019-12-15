@@ -1,2 +1,2 @@
-# monokai-one-darker
+# README
 A slightly tweaked Monokai One theme

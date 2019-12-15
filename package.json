@@ -1,0 +1,22 @@
+{
+    "name": "monokai-one-darker",
+    "publisher": "frosticless",
+    "displayName": "monokai-one-darker",
+    "description": "Slightly tweaked version of the Monokai One theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai One Darker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monokai One Darker-color-theme.json"
+            }
+        ]
+    }
+}
